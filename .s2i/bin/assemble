@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #move to /tmp
-cd /tmp
+cd /tmp/src
 #mv test_s2i/temps.c .
 
 #compile
